@@ -14,12 +14,12 @@ My Skills
 
 My Tools My Tools
 
-Databases: SQL (MySQL, SQL Server, Google BigQuery), Excel 
-Python: NumPy, Pandas, 
-Visualisation: Tableau, Power BI 
-Project Management: Trello
+- Databases: SQL (MySQL, SQL Server, Google BigQuery), Excel 
+- Python: NumPy, Pandas, 
+- Visualisation: Tableau, Power BI 
+- Project Management: Trello
 
 🙌🏻 Connect with Me 
  
-(https://www.linkedin.com/in/nataliapijanowska
+ https://www.linkedin.com/in/nataliapijanowska
 
