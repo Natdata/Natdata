@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Natalia - Marketing Analyst 👋
 
-I'm Natalia, a marketing analyst from Poland. I transitioned to data in 2020 and have been using SQL and Tableau in my current marketing work.
+I transitioned to data in 2020 and have been using SQL and Tableau in my current marketing work.
 
 In my portfolio, you can find my projects and guides on data analytics, including practice in SQL and Python
 
@@ -20,7 +20,6 @@ Visualisation: Tableau, Power BI
 Project Management: Trello
 
 🙌🏻 Connect with Me 
-
-<br>[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://[www.linkedin.com/in/mohammad-faisal-2665b5134](https://www.linkedin.com/in/nataliapijanowska))<br>
-<br>
+ 
+(https://www.linkedin.com/in/nataliapijanowska
 
