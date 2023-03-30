@@ -6,15 +6,21 @@ In my portfolio, you can find my projects and guides on data analytics, includin
 
 My Skills
 
-Data preparation, quality assurance, and analysis Database design and modelling Dashboard development and reporting Exploratory data analysis
+- Data preparation, quality assurance, and analysis 
+- Database design and modelling 
+- Dashboard development and reporting 
+- Exploratory data analysis
+- A/B Testing
 
-My Tools
+My Tools My Tools
 
-Databases: SQL (MySQL, SQL Server, Google BigQuery), Excel Python: NumPy, Pandas, Visualisation: Tableau, Power BI Project Management: Trello
+Databases: SQL (MySQL, SQL Server, Google BigQuery), Excel 
+Python: NumPy, Pandas, 
+Visualisation: Tableau, Power BI 
+Project Management: Trello
 
-🙌🏻 Connect with Me
+🙌🏻 Connect with Me 
 
-<br>## Connect with me[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/mohammad-faisal-2665b5134](https://www.linkedin.com/in/nataliapijanowska/))[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />]
+<br>[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://[www.linkedin.com/in/mohammad-faisal-2665b5134](https://www.linkedin.com/in/nataliapijanowska))<br>
+<br>
 
-
-[Tableau][(https://public.tableau.com/app/profile/natalia.pijanowska)]
