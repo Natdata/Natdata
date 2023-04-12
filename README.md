@@ -1,6 +1,5 @@
-### Hi there, I'm Natalia - Marketing Analyst 👋
+### Hi there, I'm Natalia - Data Analyst 👋
 
-I transitioned to data in 2020 and have been using SQL and Tableau in my current marketing work.
 
 In my portfolio, you can find my projects and guides on data analytics, including practice in SQL and Python
 
