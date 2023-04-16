@@ -1,7 +1,14 @@
 ### Hi there, I'm Natalia - Data Analyst 👋
 
 
-In my portfolio, you can find my projects and guides on data analytics, including practice in SQL and Python
+🙌🏻 Connect with Me 
+
+LinkedIN https://www.linkedin.com/in/nataliapijanowska
+ 
+Tableau Portfolio https://public.tableau.com/app/profile/natalia.pijanowska
+ 
+ 
+In my portfolio, you can find my projects and guides on data analytics, including SQL and Python
 
 My Skills
 
@@ -14,11 +21,8 @@ My Skills
 My Tools My Tools
 
 - Databases: SQL (MySQL, SQL Server, Google BigQuery), Excel 
-- Python: NumPy, Pandas, 
+- Python: NumPy, Pandas
 - Visualisation: Tableau, Power BI 
 - Project Management: Trello
 
-🙌🏻 Connect with Me 
- 
- https://www.linkedin.com/in/nataliapijanowska
 
