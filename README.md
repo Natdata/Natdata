@@ -10,7 +10,7 @@ Tableau Portfolio https://public.tableau.com/app/profile/natalia.pijanowska
 I share my passion for data analytics on Instagram https://www.instagram.com/alias.data
  
  
-In my portfolio, you can find my projects and guides on data analytics, including SQL and Python
+In my portfolio you can find my projects on data analytics, including SQL and Python
 
 My Skills
 
