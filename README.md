@@ -4,6 +4,9 @@
 🙌🏻 Contact with Me 
 
 LinkedIN https://www.linkedin.com/in/nataliapijanowska
+
+PowerBI Portfolio 
+https://app.powerbi.com/view?r=eyJrIjoiZWEyZmE2NWYtYzIxZS00ZjQ0LTg1MDUtNzZjYTU2OTNiMmQ2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
  
 Tableau Portfolio https://public.tableau.com/app/profile/natalia.pijanowska
 
