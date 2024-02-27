@@ -27,7 +27,7 @@ My Tools My Tools
 
 - Databases: SQL (MySQL, SQL Server, Google BigQuery), Excel 
 - Python: NumPy, Pandas
-- Visualisation: Tableau, Power BI 
-- Project Management: Trello
+- Visualisation: Looker, Power BI 
+- Project Management: Trello, Jira
 
 
